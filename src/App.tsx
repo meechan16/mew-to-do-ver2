@@ -149,7 +149,7 @@ function App() {
           <div className="flex justify-between items-center mb-8">
             <div className="flex items-center gap-4">
               <h1 className="text-4xl font-bold text-white">
-                Task Master
+                MewToDo
               </h1>
               <span className="text-white/50 text-sm">
                 {user.email}
